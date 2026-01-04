@@ -1,7 +1,12 @@
 [
   {
     "id": 1,
-    "name": "Celulares",
+    "name": "Arepas",
     "icon": "assets/icons/arepas.png",
+  },
+  {
+    "id": 2,
+    "name": "Almuerzos",
+    "icon": "assets/icons/almuerzos.png",
   },
 ]

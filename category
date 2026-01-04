@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Todos",
+    "icon": "Icons.all_inclusive",
+    "color": "Colors.blue"
+  },
+  {
+    "id": "2",
+    "name": "Electrónica",
+    "icon": "Icons.electrical_services",
+    "color": "Colors.red"
+  },
+  {
+    "id": "3",
+    "name": "Ropa",
+    "icon": "Icons.checkroom",
+    "color": "Colors.green"
+  },
+  {
+    "id": "4",
+    "name": "Hogar",
+    "icon": "Icons.home",
+    "color": "Colors.orange"
+  },
+  {
+    "id": "5",
+    "name": "Deportes",
+    "icon": "Icons.sports_soccer",
+    "color": "Colors.purple"
+  },
+  {
+    "id": "6",
+    "name": "Libros",
+    "icon": "Icons.menu_book",
+    "color": "Colors.teal"
+  }
+]

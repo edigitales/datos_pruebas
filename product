@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "iPhone 13",
+    "categoryId": "2",
+    "price": 999.99,
+    "imageUrl": "https://cdn.prod.website-files.com/632e1b3fb161a903129c733e/67337ad7089fa2b87f2a37d8_71MKNCEgE6L._AC_SL1500_.jpeg"
+  },
+  {
+    "id": "2",
+    "name": "Camiseta Nike",
+    "categoryId": "3",
+    "price": 29.99,
+    "imageUrl": "https://cdn.prod.website-files.com/632e1b3fb161a903129c733e/67337ad7089fa2b87f2a37d8_71MKNCEgE6L._AC_SL1500_.jpeg"
+  },
+  {
+    "id": "3",
+    "name": "Sofá Moderno",
+    "categoryId": "4",
+    "price": 599.99,
+    "imageUrl": "https://cdn.prod.website-files.com/632e1b3fb161a903129c733e/67337ad7089fa2b87f2a37d8_71MKNCEgE6L._AC_SL1500_.jpeg"
+  },
+  {
+    "id": "4",
+    "name": "Balón de Fútbol",
+    "categoryId": "5",
+    "price": 49.99,
+    "imageUrl": "https://cdn.prod.website-files.com/632e1b3fb161a903129c733e/67337ad7089fa2b87f2a37d8_71MKNCEgE6L._AC_SL1500_.jpeg"
+  },
+  {
+    "id": "5",
+    "name": "Novela Best Seller",
+    "categoryId": "6",
+    "price": 19.99,
+    "imageUrl": "https://cdn.prod.website-files.com/632e1b3fb161a903129c733e/67337ad7089fa2b87f2a37d8_71MKNCEgE6L._AC_SL1500_.jpeg"
+  },
+  {
+    "id": "6",
+    "name": "Auriculares",
+    "categoryId": "2",
+    "price": 199.99,
+    "imageUrl": "https://cdn.prod.website-files.com/632e1b3fb161a903129c733e/67337ad7089fa2b87f2a37d8_71MKNCEgE6L._AC_SL1500_.jpeg"
+  }
+]

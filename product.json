@@ -2,7 +2,19 @@
   {
     "id": 1,
     "name": {"es": "iPhone 13", "en": "iPhone 13"},
-    "category": "Celulares",
+    "category": "Arepas",
+    "price": 999.99,
+    "oldPrice": 0,
+    "imageUrl": "https://cdn.prod.website-files.com/632e1b3fb161a903129c733e/67337ad7089fa2b87f2a37d8_71MKNCEgE6L._AC_SL1500_.jpeg",
+    "isFavorite": false,
+    "description": {"es":"","en":""},
+    "quantity":1,
+    "isDiscount":false
+  },
+  {
+    "id": 2,
+    "name": {"es": "iPhone 13", "en": "iPhone 13"},
+    "category": "Almuerzos",
     "price": 999.99,
     "oldPrice": 0,
     "imageUrl": "https://cdn.prod.website-files.com/632e1b3fb161a903129c733e/67337ad7089fa2b87f2a37d8_71MKNCEgE6L._AC_SL1500_.jpeg",
